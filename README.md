@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am an engineering manager, embedded systems developer and amateur radio enthusiast.  
+
+These repositories contain personal projects mostly in support of my amateur radio hobby. 
+Many were designed to solve a specific problem and may not provide general purpose functionality. 
+Feel free to use these as a starting point for your project and tailor them to your needs.  
+
+73,  
+DE Tom AB3GY  
+📫 tomkerrpa@gmail.com  
 
 <!--
 **tkerr/tkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
